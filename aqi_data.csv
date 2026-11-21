@@ -1,0 +1,486 @@
+City,Temperature,Humidity,AQI
+Delhi,28.5,65,185
+Noida,29.0,60,210
+Ghaziabad,30.2,58,245
+Lucknow,27.5,70,165
+Kanpur,31.0,55,280
+Agra,29.5,62,195
+Meerut,28.0,68,175
+Jaipur,32.0,40,145
+Mumbai,30.5,75,85
+Pune,26.5,55,65
+Delhi,29.0,63,220
+Noida,30.0,59,235
+Ghaziabad,31.0,57,260
+Lucknow,28.0,72,180
+Kanpur,32.0,54,310
+Agra,30.0,60,205
+Meerut,29.0,66,190
+Jaipur,33.0,38,155
+Mumbai,31.0,78,95
+Pune,27.0,52,75
+Delhi,27.5,67,195
+Noida,28.5,62,185
+Ghaziabad,29.5,60,225
+Lucknow,26.0,74,120
+Kanpur,30.5,56,290
+Agra,28.5,64,180
+Meerut,27.0,70,160
+Jaipur,34.0,35,170
+Mumbai,29.0,80,105
+Pune,25.5,50,55
+Delhi,31.0,55,320
+Noida,32.0,52,305
+Ghaziabad,33.0,50,350
+Lucknow,29.0,68,215
+Kanpur,34.0,48,390
+Agra,31.0,58,250
+Meerut,30.0,61,230
+Jaipur,35.0,32,185
+Mumbai,28.0,82,90
+Pune,26.0,48,45
+Delhi,26.5,72,145
+Noida,27.0,70,155
+Ghaziabad,28.0,69,195
+Lucknow,25.0,78,95
+Kanpur,29.0,60,205
+Agra,27.0,68,135
+Meerut,26.0,73,110
+Jaipur,31.0,42,125
+Mumbai,27.5,85,75
+Pune,24.5,55,40
+Hong Kong,26.5,78,115
+Kuala Lumpur,30.2,84,92
+Osaka,19.5,62,48
+Kyoto,18.2,65,55
+Taipei,27.0,76,105
+Hanoi,29.5,80,165
+Manila,31.0,82,145
+Amsterdam,16.5,72,35
+Madrid,25.0,42,65
+Barcelona,23.5,58,52
+Moscow,12.0,68,75
+Vienna,17.5,60,32
+Zurich,14.0,55,22
+Stockholm,11.5,65,18
+Chicago,20.0,55,68
+San Francisco,18.5,62,28
+Vancouver,15.0,70,25
+São Paulo,27.0,68,95
+Rio de Janeiro,30.0,72,82
+Doha,37.0,30,145
+Riyadh,39.0,24,185
+Abu Dhabi,36.0,38,110
+Nairobi,23.0,58,48
+Johannesburg,22.0,45,72
+Hong Kong,29.0,82,185
+Kuala Lumpur,32.0,88,135
+Osaka,27.0,70,95
+Kyoto,25.0,68,72
+Taipei,31.0,80,175
+Hanoi,34.0,84,245
+Manila,34.0,86,205
+Amsterdam,24.0,65,58
+Madrid,34.0,35,105
+Barcelona,30.0,55,85
+Moscow,25.0,60,115
+Vienna,27.0,58,48
+Zurich,23.0,52,35
+Stockholm,22.0,60,28
+Chicago,30.0,48,125
+San Francisco,25.0,58,42
+Vancouver,24.0,65,38
+São Paulo,32.0,72,155
+Rio de Janeiro,35.0,78,125
+Doha,43.0,22,220
+Riyadh,45.0,18,260
+Abu Dhabi,42.0,32,175
+Nairobi,29.0,55,75
+Johannesburg,29.0,42,115
+Hong Kong,20.0,75,85
+Kuala Lumpur,27.0,90,65
+Osaka,12.0,58,32
+Kyoto,10.0,62,28
+Taipei,18.0,72,75
+Hanoi,19.0,78,105
+Manila,26.0,84,95
+Amsterdam,9.0,80,22
+Madrid,14.0,48,38
+Barcelona,13.0,65,32
+Moscow,2.0,72,95
+Vienna,8.0,62,25
+Zurich,5.0,58,15
+Stockholm,1.0,70,12
+Chicago,8.0,60,45
+San Francisco,13.0,68,18
+Vancouver,7.0,78,22
+São Paulo,19.0,72,55
+Rio de Janeiro,24.0,82,48
+Doha,25.0,42,65
+Riyadh,28.0,30,95
+Abu Dhabi,27.0,45,55
+Nairobi,18.0,65,32
+Johannesburg,15.0,50,42
+Hong Kong,31.0,75,225
+Kuala Lumpur,33.0,82,185
+Osaka,29.0,65,145
+Kyoto,28.0,62,125
+Taipei,34.0,78,235
+Hanoi,36.0,82,310
+Manila,35.0,85,275
+Amsterdam,29.0,55,85
+Madrid,39.0,30,155
+Barcelona,35.0,48,125
+Moscow,30.0,55,175
+Vienna,32.0,52,75
+Zurich,28.0,45,55
+Stockholm,27.0,58,42
+Chicago,34.0,42,185
+San Francisco,28.0,55,65
+Vancouver,29.0,62,58
+São Paulo,35.0,65,210
+Rio de Janeiro,38.0,75,185
+Doha,46.0,18,305
+Riyadh,47.0,15,345
+Abu Dhabi,45.0,28,255
+Nairobi,32.0,48,105
+Johannesburg,33.0,38,165
+Hong Kong,24.0,80,145
+Kuala Lumpur,29.0,86,115
+Osaka,20.0,64,65
+Kyoto,19.0,67,58
+Taipei,28.0,79,145
+Hanoi,30.0,83,195
+Manila,30.0,88,165
+Amsterdam,18.0,70,45
+Madrid,27.0,40,85
+Barcelona,25.0,60,72
+Moscow,18.0,65,125
+Vienna,20.0,58,42
+Zurich,17.0,53,28
+Stockholm,15.0,63,20
+Chicago,24.0,52,95
+San Francisco,20.0,64,35
+Vancouver,18.0,72,32
+São Paulo,29.0,70,125
+Rio de Janeiro,32.0,78,105
+Doha,34.0,35,125
+Riyadh,36.0,26,155
+Abu Dhabi,34.0,42,95
+Nairobi,25.0,60,55
+Johannesburg,25.0,46,85
+Hong Kong,28.0,76,195
+Kuala Lumpur,31.0,85,155
+Osaka,25.0,66,105
+Kyoto,23.0,68,82
+Taipei,30.0,77,185
+Hanoi,33.0,81,265
+Manila,33.0,84,225
+Amsterdam,22.0,66,62
+Madrid,32.0,38,115
+Barcelona,29.0,54,95
+Moscow,26.0,58,145
+Vienna,26.0,55,58
+Zurich,22.0,50,42
+Stockholm,21.0,59,35
+Chicago,29.0,46,145
+San Francisco,24.0,57,48
+Vancouver,23.0,64,45
+São Paulo,33.0,68,175
+Rio de Janeiro,36.0,76,155
+Doha,41.0,26,195
+Riyadh,43.0,20,225
+Abu Dhabi,40.0,35,155
+Nairobi,28.0,53,68
+Johannesburg,28.0,43,105
+Hong Kong,26.5,78,115
+Kuala Lumpur,30.2,84,92
+Osaka,19.5,62,48
+Kyoto,18.2,65,55
+Taipei,27.0,76,105
+Hanoi,29.5,80,165
+Manila,31.0,82,145
+Amsterdam,16.5,72,35
+Madrid,25.0,42,65
+Barcelona,23.5,58,52
+Moscow,12.0,68,75
+Vienna,17.5,60,32
+Zurich,14.0,55,22
+Stockholm,11.5,65,18
+Chicago,20.0,55,68
+San Francisco,18.5,62,28
+Vancouver,15.0,70,25
+São Paulo,27.0,68,95
+Rio de Janeiro,30.0,72,82
+Doha,37.0,30,145
+Riyadh,39.0,24,185
+Abu Dhabi,36.0,38,110
+Nairobi,23.0,58,48
+Johannesburg,22.0,45,72
+Hong Kong,29.0,82,185
+Kuala Lumpur,32.0,88,135
+Osaka,27.0,70,95
+Kyoto,25.0,68,72
+Taipei,31.0,80,175
+Hanoi,34.0,84,245
+Manila,34.0,86,205
+Amsterdam,24.0,65,58
+Madrid,34.0,35,105
+Barcelona,30.0,55,85
+Moscow,25.0,60,115
+Vienna,27.0,58,48
+Zurich,23.0,52,35
+Stockholm,22.0,60,28
+Chicago,30.0,48,125
+San Francisco,25.0,58,42
+Vancouver,24.0,65,38
+São Paulo,32.0,72,155
+Rio de Janeiro,35.0,78,125
+Doha,43.0,22,220
+Riyadh,45.0,18,260
+Abu Dhabi,42.0,32,175
+Nairobi,29.0,55,75
+Johannesburg,29.0,42,115
+Hong Kong,20.0,75,85
+Kuala Lumpur,27.0,90,65
+Osaka,12.0,58,32
+Kyoto,10.0,62,28
+Taipei,18.0,72,75
+Hanoi,19.0,78,105
+Manila,26.0,84,95
+Amsterdam,9.0,80,22
+Madrid,14.0,48,38
+Barcelona,13.0,65,32
+Moscow,2.0,72,95
+Vienna,8.0,62,25
+Zurich,5.0,58,15
+Stockholm,1.0,70,12
+Chicago,8.0,60,45
+San Francisco,13.0,68,18
+Vancouver,7.0,78,22
+São Paulo,19.0,72,55
+Rio de Janeiro,24.0,82,48
+Doha,25.0,42,65
+Riyadh,28.0,30,95
+Abu Dhabi,27.0,45,55
+Nairobi,18.0,65,32
+Johannesburg,15.0,50,42
+Hong Kong,31.0,75,225
+Kuala Lumpur,33.0,82,185
+Osaka,29.0,65,145
+Kyoto,28.0,62,125
+Taipei,34.0,78,235
+Hanoi,36.0,82,310
+Manila,35.0,85,275
+Amsterdam,29.0,55,85
+Madrid,39.0,30,155
+Barcelona,35.0,48,125
+Moscow,30.0,55,175
+Vienna,32.0,52,75
+Zurich,28.0,45,55
+Stockholm,27.0,58,42
+Chicago,34.0,42,185
+San Francisco,28.0,55,65
+Vancouver,29.0,62,58
+São Paulo,35.0,65,210
+Rio de Janeiro,38.0,75,185
+Doha,46.0,18,305
+Riyadh,47.0,15,345
+Abu Dhabi,45.0,28,255
+Nairobi,32.0,48,105
+Johannesburg,33.0,38,165
+Hong Kong,24.0,80,145
+Kuala Lumpur,29.0,86,115
+Osaka,20.0,64,65
+Kyoto,19.0,67,58
+Taipei,28.0,79,145
+Hanoi,30.0,83,195
+Manila,30.0,88,165
+Amsterdam,18.0,70,45
+Madrid,27.0,40,85
+Barcelona,25.0,60,72
+Moscow,18.0,65,125
+Vienna,20.0,58,42
+Zurich,17.0,53,28
+Stockholm,15.0,63,20
+Chicago,24.0,52,95
+San Francisco,20.0,64,35
+Vancouver,18.0,72,32
+São Paulo,29.0,70,125
+Rio de Janeiro,32.0,78,105
+Doha,34.0,35,125
+Riyadh,36.0,26,155
+Abu Dhabi,34.0,42,95
+Nairobi,25.0,60,55
+Johannesburg,25.0,46,85
+Hong Kong,28.0,76,195
+Kuala Lumpur,31.0,85,155
+Osaka,25.0,66,105
+Kyoto,23.0,68,82
+Taipei,30.0,77,185
+Hanoi,33.0,81,265
+Manila,33.0,84,225
+Amsterdam,22.0,66,62
+Madrid,32.0,38,115
+Barcelona,29.0,54,95
+Moscow,26.0,58,145
+Vienna,26.0,55,58
+Zurich,22.0,50,42
+Stockholm,21.0,59,35
+Chicago,29.0,46,145
+San Francisco,24.0,57,48
+Vancouver,23.0,64,45
+São Paulo,33.0,68,175
+Rio de Janeiro,36.0,76,155
+Doha,41.0,26,195
+Riyadh,43.0,20,225
+Abu Dhabi,40.0,35,155
+Nairobi,28.0,53,68
+Johannesburg,28.0,43,105
+City,Temperature,Humidity,AQI
+Lisbon,24,58,42
+Brussels,16,67,65
+Prague,18,61,54
+Budapest,22,55,73
+Warsaw,15,70,81
+Copenhagen,13,72,38
+Oslo,11,65,29
+Helsinki,9,68,25
+Reykjavik,7,75,18
+Dublin,14,71,44
+Edinburgh,12,69,39
+Manchester,17,73,76
+Birmingham,19,64,88
+Glasgow,13,77,51
+Marseille,26,52,67
+Lyon,21,59,72
+Nice,25,56,43
+Geneva,17,62,35
+Munich,18,60,48
+Hamburg,16,68,57
+Frankfurt,20,57,83
+Cologne,19,63,69
+Athens,29,48,91
+Thessaloniki,27,51,104
+Bucharest,23,58,112
+Sofia,20,62,86
+Belgrade,24,55,98
+Zagreb,21,60,63
+Sarajevo,19,66,79
+Tirana,28,49,71
+Tallinn,10,71,31
+Riga,12,68,46
+Vilnius,14,65,52
+Krakow,17,70,119
+Gdansk,15,73,64
+Bratislava,20,58,75
+Ljubljana,19,64,49
+Skopje,26,50,107
+Podgorica,27,54,68
+Chisinau,22,59,93
+Jerusalem,28,43,87
+Tel Aviv,30,51,74
+Amman,27,40,96
+Beirut,29,57,102
+Muscat,34,35,89
+Kuwait City,38,29,145
+Manama,36,38,121
+Jeddah,37,32,132
+Mecca,39,27,158
+Tehran,31,34,167
+Baghdad,40,25,189
+Basra,42,22,201
+Tashkent,28,38,113
+Samarkand,26,42,91
+Bishkek,20,49,77
+Dushanbe,25,40,105
+Almaty,18,52,84
+Astana,12,45,59
+Ulaanbaatar,8,39,126
+Kathmandu,24,65,156
+Pokhara,22,71,67
+Thimphu,16,73,32
+Dhaka,32,78,214
+Chittagong,30,81,176
+Colombo,29,76,72
+Kandy,25,79,48
+Male,30,74,39
+Karachi,35,48,193
+Lahore,34,52,226
+Islamabad,29,58,118
+Peshawar,33,45,174
+Quetta,27,35,92
+Multan,36,39,205
+Hyderabad Sindh,37,41,187
+Faisalabad,34,50,198
+Sialkot,31,55,143
+Guwahati,28,73,81
+Shillong,19,78,34
+Imphal,25,72,56
+Aizawl,23,75,29
+Agartala,30,77,94
+Kohima,20,69,31
+Itanagar,24,74,38
+Gangtok,15,76,22
+Dehradun,26,65,88
+Shimla,17,58,35
+Srinagar,18,61,72
+Jammu,30,49,119
+Amritsar,32,46,178
+Ludhiana,31,53,165
+Chandigarh,29,57,97
+Bhopal,30,48,121
+Indore,29,51,109
+Udaipur,31,42,83
+Jodhpur,35,31,115
+Bikaner,36,28,137
+Kota,33,40,128
+Ajmer,30,45,91
+Vadodara,32,49,116
+Surat,33,55,132
+Rajkot,34,43,104
+Nashik,27,59,68
+Aurangabad,30,47,98
+Nagpur,32,44,143
+Raipur,31,56,151
+Ranchi,28,63,87
+Jamshedpur,30,58,126
+Bhubaneswar,31,69,93
+Cuttack,32,67,108
+Visakhapatnam,29,74,65
+Vijayawada,33,62,117
+Tirupati,30,71,59
+Mysuru,27,68,48
+Mangaluru,29,79,41
+Kochi,30,82,55
+Thiruvananthapuram,29,80,37
+Madurai,32,65,88
+Coimbatore,28,72,61
+Salem,31,58,102
+Tiruchirappalli,32,64,96
+Vellore,30,61,85
+Warangal,33,53,119
+Guntur,34,57,111
+Anantapur,35,39,127
+Kurnool,34,43,134
+Kozhikode,29,78,47
+Alappuzha,28,83,33
+Palakkad,30,75,52
+Durgapur,32,54,169
+Asansol,31,58,157
+Siliguri,27,76,73
+Patna,34,61,219
+Gaya,33,55,182
+Muzaffarpur,32,67,191
+Darbhanga,31,69,174
+Varanasi,33,59,203
+Prayagraj,34,54,187
+Gorakhpur,32,72,148
+Bareilly,31,63,139
+Moradabad,32,57,181
+Aligarh,33,52,172
+Mathura,34,48,159
+Agra,35,45,194
+Meerut,33,50,186
+Haridwar,27,68,71
+Rishikesh,25,73,44

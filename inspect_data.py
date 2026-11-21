@@ -1,0 +1,16 @@
+import numpy as np
+import pandas as pd 
+df=pd.read_csv('aqi_data.csv')
+print("\n===== AQI DATAFRAME =====")
+print(df.head())
+print(df.shape)
+df.info()
+print("\n---MISSING VALUES---")
+print(df.isnull().sum())
+print("\n---NUMPY ANALYSIS---")
+aqi=df["AQI"].dropna().to_numpy()
+print("AVERAGE AQI:",np.mean(aqi))
+print("MAXIMUM AQI ",np.max(aqi))
+print("MINIMUM AQI",np.min(aqi))
+print("STANDARD DEVIATION",np.std(aqi))
+print("\nDuplicate records:", df.duplicated().sum())
